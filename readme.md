@@ -65,8 +65,7 @@ cd adpt-project
 ```
 pixi init 
 pixi install
-pixi add python>=3.10 numpy matplotlib biopython dssp
-pixi add pymol-open-source
+pixi install -f src/envi.yml
 pixi shell
 ```
 
