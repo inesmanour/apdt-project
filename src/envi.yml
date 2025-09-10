@@ -1,0 +1,12 @@
+name: transmb
+channels:
+  - conda-forge
+  - bioconda
+  - nodefaults
+dependencies:
+  - python>=3.11
+  - numpy
+  - pandas
+  - biopython
+  - matplotlib   # utile pour tes visualisations
+  - dssp         # mkdssp pour calculer les RSA
