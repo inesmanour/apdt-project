@@ -45,7 +45,6 @@ adpt-project/
 │   └─ envi.yml 
 │
 └── README.md
-
 ```
 
 ---
@@ -131,7 +130,7 @@ python src/main.py --pdb data/1K24.pdb --chain A \
 
 ##### • En console :
 
-    ```
+```
     python src/main.py --pdb data/1K24.pdb --chain A \
 >   --n_dirs 192 --pas 1.0 \
 >   --demi_epaisseur 12.5 \
@@ -139,7 +138,9 @@ python src/main.py --pdb data/1K24.pdb --chain A \
 >   --widen-step 0.25 --max-half-extra 1.5 \
 >   --rsa-thresh 0.22 \
 >   --plot --pml view_membrane.pml
+```
 
+ ```
 === 1K24.pdb ===
 - Cα lus : 249
 - ASA (DSSP) : 249/249
