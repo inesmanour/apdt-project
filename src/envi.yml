@@ -10,3 +10,4 @@ dependencies:
   - biopython
   - matplotlib   # utile pour tes visualisations
   - dssp         # mkdssp pour calculer les RSA
+  - conda-forge::pymol-open-source
