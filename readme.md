@@ -175,14 +175,14 @@ python src/main.py --pdb data/1K24.pdb --chain A \
 ##### •	En PyMOL :
     
 **Figure PyMOL :**
-![Membrane dans PyMOL](data/my_membrane.png)
+![Membrane dans PyMOL](results/my_membrane.png)
 
 
 •	En Matplotlib :
 Si --plot est activé, un rendu 3D interactif s’ouvre.
 
 **Figure Matplotlib :**
-![Membrane dans Matplotlib](data/Figure_1plot.png)
+![Membrane dans Matplotlib](results/Figure_1plot.png)
 
 
 
